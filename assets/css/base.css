@@ -133,3 +133,13 @@ header .row{
     left: 50%;
     transform: translateX(-50%);
 }
+h4{
+    color: #555;
+    font-weight: normal;
+}
+.col-4 p{
+    font-size: 1.4rem;
+}
+.rating i{
+    color: #ff523b;
+}
