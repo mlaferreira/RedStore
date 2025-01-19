@@ -51,6 +51,9 @@ a{
 p{
     color: #555;
 }
+header .row{
+    margin-top: 70px;
+}
 .row{
     display: flex;
     align-items: center;
