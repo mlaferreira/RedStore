@@ -67,3 +67,12 @@ p{
     line-height: 60px;
     margin: 25px 0;
 }
+.btn{
+    display: inline-block;
+    background-color: #ff523b;
+    color: #fff;
+    font-weight: bold;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+}
