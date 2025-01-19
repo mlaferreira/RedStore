@@ -110,6 +110,7 @@ header .row{
     padding: 10px;
     margin-bottom: 50px;
     transition: .5s;
+    cursor: pointer;
 }
 .col-4 img{
     width: 100%;
@@ -146,4 +147,5 @@ h4{
 }
 .col-4:hover{
     transform: translateY(-5px);
+    
 }
