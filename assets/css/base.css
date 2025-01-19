@@ -250,9 +250,30 @@ small{
 ul{
     list-style: none;
 }
+ul li{
+    margin-bottom: 10px;
+}
+ul li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: .5s;
+}
+ul li a:hover{
+    color: #ff523b;
+}
 .app-logo{
     margin-top: 20px;
 }
 .app-logo img{
     width: 140px;
+}
+.footer hr{
+    border: none;
+    background-color: #b5b5b5;
+    height: 1px;
+    margin: 20px 0;
+}
+.copyright{
+    text-align: center;
+
 }
