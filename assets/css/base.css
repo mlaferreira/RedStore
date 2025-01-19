@@ -261,6 +261,10 @@ ul li a{
 ul li a:hover{
     color: #ff523b;
 }
+ul li a i{
+    margin-right: 8px;
+    color: #ff523b;
+}
 .app-logo{
     margin-top: 20px;
 }
