@@ -181,3 +181,7 @@ small{
 .testimonial .col-3:hover{
     transform: translateY(-10px);
 }
+.fa-solid.fa-quote-left{
+    font-size: 3.4rem;
+    color: #ff523b;
+}
