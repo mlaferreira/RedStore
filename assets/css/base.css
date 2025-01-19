@@ -109,6 +109,7 @@ header .row{
     min-width: 200px;
     padding: 10px;
     margin-bottom: 50px;
+    transition: .5s;
 }
 .col-4 img{
     width: 100%;
@@ -142,4 +143,7 @@ h4{
 }
 .rating i{
     color: #ff523b;
+}
+.col-4:hover{
+    transform: translateY(-5px);
 }
