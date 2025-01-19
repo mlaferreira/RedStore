@@ -185,3 +185,7 @@ small{
     font-size: 3.4rem;
     color: #ff523b;
 }
+.col-3 p{
+    font-size: 1.2rem;
+    margin: 12px 0;
+    color: #777;
